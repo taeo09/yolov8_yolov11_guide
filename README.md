@@ -27,6 +27,7 @@ YOLO(You Only Look Once)는 이미지를 한 번만 보는 것(One-shot)으로 �
 | **추론 성능** | 높은 정확도 | 더 높은 mAP, 더 적은 파라미터 |
 | **지원 기능** | 분류(Classify), 탐지(Detect), 세분화(Segment), 포즈 추정(Pose) | 동일 + 개선된 멀티태스크 지원 |
 | **사용 예시** | `yolo detect train data=... model=yolov8n.pt` | `yolo detect train data=... model=yolov11n.pt` |
+<img width="865" height="391" alt="image" src="https://github.com/user-attachments/assets/b1de8f97-d68f-4e98-9356-2673e4574c62" />
 
 ---
 
